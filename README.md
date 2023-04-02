@@ -4,7 +4,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Overview
 
-Live Site URL: [NFT preview card component](link here)
+Live Site URL: [NFT preview card component](https://reddfoxie.github.io/FEM-Challenge_NFT-preview-card-component/)
 
 ### Useful resources
 
